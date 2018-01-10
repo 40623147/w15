@@ -82,7 +82,7 @@
 <v t="leo.20171107203151.1"><vh>newHeadline</vh></v>
 </v>
 </v>
-<v t="leo.20171107183151.1" a="E"><vh>W7-W9</vh>
+<v t="leo.20171107183151.1"><vh>W7-W9</vh>
 <v t="leo.20171107183217.1" a="E"><vh>W7-W9</vh>
 <v t="leo.20171107183634.1"><vh>newHeadline</vh></v>
 </v>
@@ -95,8 +95,18 @@
 <v t="leo.20171108214158.1"><vh>計算機</vh>
 <v t="leo.20171108214219.1"><vh>newHeadline</vh></v>
 </v>
-<v t="leo.20171115231939.1" a="E"><vh>筆記</vh>
+<v t="leo.20171115231939.1"><vh>筆記</vh>
 <v t="leo.20171115232001.1"><vh>筆記</vh></v>
+</v>
+</v>
+<v t="leo.20180110004347.1" a="E"><vh>W10-W12</vh>
+<v t="leo.20180110004414.1" a="E"><vh>W10-W12</vh>
+<v t="leo.20180110004506.1"><vh>newHeadline</vh></v>
+</v>
+</v>
+<v t="leo.20180110004900.1" a="E"><vh>W13-W15</vh>
+<v t="leo.20180110004944.1" a="E"><vh>W13-W15</vh>
+<v t="leo.20180110005015.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 <v t="leo.20170911090822.1"><vh>隨身碟內容介紹</vh>
@@ -662,6 +672,37 @@ W7-W9
 &lt;a href="https://cpa.kmol.info/40623147/raw/08eeeb24c100fc61596bb0e4ed59dff8d4ae7ba1332cbf12303656b159e49196?m=image/jpeg"&gt;&lt;img src="https://cpa.kmol.info/40623147/raw/08eeeb24c100fc61596bb0e4ed59dff8d4ae7ba1332cbf12303656b159e49196?m=image/jpeg" width="100" height="150"&gt;&lt;/a&gt;
 &lt;a href="https://cpa.kmol.info/40623147/raw/f9eda793acfd269da7e2399e8b5398d139b0a8cc8b3106d5b9d0a8281ba7836b?m=image/jpeg"&gt;&lt;img src="https://cpa.kmol.info/40623147/raw/f9eda793acfd269da7e2399e8b5398d139b0a8cc8b3106d5b9d0a8281ba7836b?m=image/jpeg" width="100" height="150"&gt;&lt;/a&gt;
 &lt;a href="https://cpa.kmol.info/40623147/raw/58229d4c542aa06ffa7b8048f0227163c2e05609c22d0aff5a31be367215bf95?m=image/jpeg"&gt;&lt;img src="https://cpa.kmol.info/40623147/raw/58229d4c542aa06ffa7b8048f0227163c2e05609c22d0aff5a31be367215bf95?m=image/jpeg" width="100" height="150"&gt;&lt;/a&gt;</t>
+<t tx="leo.20180110004347.1">&lt;section&gt;
+    @others
+&lt;/section&gt;</t>
+<t tx="leo.20180110004414.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110004506.1">#W10-W12
+
+* 創建Github帳號
+* 學會自行調整start.bat及stop.bat
+* 
+* 
+</t>
+<t tx="leo.20180110004900.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+</t>
+<t tx="leo.20180110004944.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110005015.1">#W13-W15
+
+* Github期末協同倉儲
+* 
+* 
+* 
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
