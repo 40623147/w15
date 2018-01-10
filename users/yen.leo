@@ -116,7 +116,7 @@
 <v t="leo.20180110230016.1"><vh>newHeadline</vh></v>
 </v>
 </v>
-<v t="leo.20180110004944.1"><vh>W13-W15</vh>
+<v t="leo.20180110004944.1" a="E"><vh>W13-W15</vh>
 <v t="leo.20180110004900.1" a="E"><vh>W13-W15</vh>
 <v t="leo.20180110224356.1"><vh>newHeadline</vh></v>
 </v>
@@ -754,9 +754,10 @@ W7-W9
 * 學習github指令
 * 製作計算機
 </t>
-<t tx="leo.20180110224409.1">*  Github期末協同倉儲
-
-&lt;img src="https://github.com/40623147/w15/blob/gh-pages/%E5%9C%96%E7%89%87/%E5%9C%98%E9%9A%8A.jpg" width="500" height="500"&gt;&lt;/a&gt;</t>
+<t tx="leo.20180110224409.1"># Github期末協同倉儲
+* git config --user.email及username
+* 加入協同者
+</t>
 <t tx="leo.20180110224632.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
