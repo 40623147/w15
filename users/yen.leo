@@ -106,8 +106,14 @@
 <v t="leo.20180110205902.1" a="E"><vh>建立github帳號</vh>
 <v t="leo.20180110210037.1"><vh>newHeadline</vh></v>
 </v>
+<v t="leo.20180110212404.1" a="E"><vh>調整start.bat</vh>
+<v t="leo.20180110212505.1"><vh>newHeadline</vh></v>
 </v>
-<v t="leo.20180110004900.1" a="E"><vh>W13-W15</vh>
+<v t="leo.20180110214406.1" a="E"><vh>按鈕配置</vh>
+<v t="leo.20180110214415.1"><vh>newHeadline</vh></v>
+</v>
+</v>
+<v t="leo.20180110004900.1"><vh>W13-W15</vh>
 <v t="leo.20180110004944.1" a="E"><vh>W13-W15</vh>
 <v t="leo.20180110005015.1"><vh>newHeadline</vh></v>
 </v>
@@ -687,9 +693,8 @@ W7-W9
 
 * 創建Github帳號
 * 學會自行調整start.bat及stop.bat
-* 
-* 
-</t>
+* 用Eric6把計算機所需按鍵的配置好
+* </t>
 <t tx="leo.20180110004900.1">&lt;section&gt;
     @others
 &lt;/section&gt;
@@ -711,7 +716,23 @@ W7-W9
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20180110210037.1">&lt;img src="https://raw.githubusercontent.com/40623147/w15/gh-pages/%E5%9C%96%E7%89%87/1.png" width="500" height="500"&gt;&lt;/a&gt;</t>
+<t tx="leo.20180110210037.1">#創建Github帳號
+
+&lt;img src="https://raw.githubusercontent.com/40623147/w15/gh-pages/%E5%9C%96%E7%89%87/1.png" width="500" height="500"&gt;&lt;/a&gt;</t>
+<t tx="leo.20180110212404.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110212505.1">#學會自行調整start.bat及stop.bat
+
+&lt;img src="https://raw.githubusercontent.com/40623147/w15/gh-pages/%E5%9C%96%E7%89%87/2.png" width="500" height="500"&gt;&lt;/a&gt;</t>
+<t tx="leo.20180110214406.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110214415.1"> #設定pressButton 與 lineEdit 物件的尺寸大小, 把物件命名, 瞭解設定 clicked 與 connect </t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
