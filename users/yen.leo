@@ -99,8 +99,8 @@
 <v t="leo.20171115232001.1"><vh>筆記</vh></v>
 </v>
 </v>
-<v t="leo.20180110004347.1" a="E"><vh>W10-W12</vh>
-<v t="leo.20180110004414.1" a="E"><vh>W10-W12</vh>
+<v t="leo.20180110004347.1"><vh>W10-W12</vh>
+<v t="leo.20180110004414.1"><vh>W10-W12</vh>
 <v t="leo.20180110004506.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20180110205902.1"><vh>建立github帳號</vh>
@@ -112,11 +112,11 @@
 <v t="leo.20180110214406.1"><vh>按鈕配置</vh>
 <v t="leo.20180110214415.1"><vh>newHeadline</vh></v>
 </v>
-<v t="leo.20180110230006.1"><vh>使用DiaPortable與GIMPPortable</vh>
+<v t="leo.20180110230006.1" a="E"><vh>使用DiaPortable與GIMPPortable</vh>
 <v t="leo.20180110230016.1"><vh>newHeadline</vh></v>
 </v>
 </v>
-<v t="leo.20180110004944.1" a="E"><vh>W13-W15</vh>
+<v t="leo.20180110004944.1"><vh>W13-W15</vh>
 <v t="leo.20180110004900.1" a="E"><vh>W13-W15</vh>
 <v t="leo.20180110224356.1"><vh>newHeadline</vh></v>
 </v>
@@ -129,7 +129,7 @@
 <v t="leo.20180110230831.1" a="E"><vh>製作計算機</vh>
 <v t="leo.20180110230851.1"><vh>newHeadline</vh></v>
 </v>
-<v t="leo.20180111004615.1"><vh>心得</vh>
+<v t="leo.20180111004615.1" a="E"><vh>心得</vh>
 <v t="leo.20180111004630.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20180111004920.1" a="E"><vh>自評</vh>
@@ -139,7 +139,7 @@
 <v t="leo.20170911090822.1"><vh>隨身碟內容介紹</vh>
 <v t="leo.20170911090822.2"><vh>Win 64 位元專用</vh></v>
 </v>
-<v t="leo.20170911091459.1" a="E"><vh>Python 與程式設計</vh>
+<v t="leo.20170911091459.1"><vh>Python 與程式設計</vh>
 <v t="leo.20170911091508.1" a="E"><vh>Python 與 C/C++</vh>
 <v t="leo.20170911091508.2"><vh>程式學習順序</vh></v>
 </v>
@@ -153,7 +153,7 @@
 <v t="leo.20170911100657.2"><vh>電腦輔助設計實習</vh></v>
 </v>
 </v>
-<v t="leo.20170911093601.1" a="E"><vh>W1 練習</vh>
+<v t="leo.20170911093601.1"><vh>W1 練習</vh>
 <v t="leo.20170911093601.2" a="E"><vh>隨身系統練習</vh>
 <v t="leo.20170911093601.3"><vh>Python 3.6 程式環境</vh></v>
 </v>
@@ -720,8 +720,7 @@ W7-W9
 &lt;/section&gt;</t>
 <t tx="leo.20180110004944.1">&lt;section&gt;
     @others
-&lt;/section&gt;
-</t>
+&lt;/section&gt;</t>
 <t tx="leo.20180110205902.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
