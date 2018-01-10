@@ -713,15 +713,15 @@ W7-W9
 * 學會自行調整start.bat及stop.bat
 * 用Eric6把計算機所需按鍵的配置好
 * 使用DiaPortable與GIMPPortable</t>
-<t tx="leo.20180110004900.1">&lt;section&gt;
-    @others
-&lt;/section&gt;
-</t>
-<t tx="leo.20180110004944.1">&lt;section data-markdown&gt;
+<t tx="leo.20180110004900.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20180110004944.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+</t>
 <t tx="leo.20180110205902.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
