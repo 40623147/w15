@@ -82,7 +82,7 @@
 <v t="leo.20171107203151.1"><vh>newHeadline</vh></v>
 </v>
 </v>
-<v t="leo.20171107183151.1"><vh>W7-W9</vh>
+<v t="leo.20171107183151.1" a="E"><vh>W7-W9</vh>
 <v t="leo.20171107183217.1" a="E"><vh>W7-W9</vh>
 <v t="leo.20171107183634.1"><vh>newHeadline</vh></v>
 </v>
@@ -719,7 +719,7 @@ W7-W9
 <t tx="leo.20180110210037.1">
 * 創建Github帳號
 
-&lt;img src="https://raw.githubusercontent.com/40623147/w15/gh-pages/%E5%9C%96%E7%89%87/1.png" width="500" height="500"&gt;&lt;/a&gt;</t>
+&lt;a href="https://raw.githubusercontent.com/40623147/w15/gh-pages/%E5%9C%96%E7%89%87/1.png"&gt;&lt;img src="https://raw.githubusercontent.com/40623147/w15/gh-pages/%E5%9C%96%E7%89%87/1.png" width="500" height="500"&gt;&lt;/a&gt;</t>
 <t tx="leo.20180110212404.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -728,7 +728,7 @@ W7-W9
 <t tx="leo.20180110212505.1">
 * 學會自行調整start.bat及stop.bat
 
-&lt;img src="https://raw.githubusercontent.com/40623147/w15/gh-pages/%E5%9C%96%E7%89%87/2.png" width="500" height="500"&gt;&lt;/a&gt;</t>
+&lt;a href="https://raw.githubusercontent.com/40623147/w15/gh-pages/%E5%9C%96%E7%89%87/2.png"&gt;&lt;img src="https://raw.githubusercontent.com/40623147/w15/gh-pages/%E5%9C%96%E7%89%87/2.png" width="500" height="500"&gt;&lt;/a&gt;</t>
 <t tx="leo.20180110214406.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
