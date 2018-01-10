@@ -103,25 +103,43 @@
 <v t="leo.20180110004414.1" a="E"><vh>W10-W12</vh>
 <v t="leo.20180110004506.1"><vh>newHeadline</vh></v>
 </v>
-<v t="leo.20180110205902.1" a="E"><vh>建立github帳號</vh>
+<v t="leo.20180110205902.1"><vh>建立github帳號</vh>
 <v t="leo.20180110210037.1"><vh>newHeadline</vh></v>
 </v>
-<v t="leo.20180110212404.1" a="E"><vh>調整start.bat</vh>
+<v t="leo.20180110212404.1"><vh>調整start.bat</vh>
 <v t="leo.20180110212505.1"><vh>newHeadline</vh></v>
 </v>
-<v t="leo.20180110214406.1" a="E"><vh>按鈕配置</vh>
+<v t="leo.20180110214406.1"><vh>按鈕配置</vh>
 <v t="leo.20180110214415.1"><vh>newHeadline</vh></v>
 </v>
+<v t="leo.20180110230006.1"><vh>使用DiaPortable與GIMPPortable</vh>
+<v t="leo.20180110230016.1"><vh>newHeadline</vh></v>
 </v>
-<v t="leo.20180110004900.1" a="E"><vh>W13-W15</vh>
+</v>
 <v t="leo.20180110004944.1" a="E"><vh>W13-W15</vh>
-<v t="leo.20180110005015.1"><vh>newHeadline</vh></v>
+<v t="leo.20180110004900.1" a="E"><vh>W13-W15</vh>
+<v t="leo.20180110224356.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20180110224219.1" a="E"><vh> Github期末協同倉儲</vh>
+<v t="leo.20180110224409.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20180110224632.1" a="E"><vh>常用github指令</vh>
+<v t="leo.20180110225709.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20180110230831.1" a="E"><vh>製作計算機</vh>
+<v t="leo.20180110230851.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20180111004615.1"><vh>心得</vh>
+<v t="leo.20180111004630.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20180111004920.1" a="E"><vh>自評</vh>
+<v t="leo.20180111004935.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 <v t="leo.20170911090822.1"><vh>隨身碟內容介紹</vh>
 <v t="leo.20170911090822.2"><vh>Win 64 位元專用</vh></v>
 </v>
-<v t="leo.20170911091459.1"><vh>Python 與程式設計</vh>
+<v t="leo.20170911091459.1" a="E"><vh>Python 與程式設計</vh>
 <v t="leo.20170911091508.1" a="E"><vh>Python 與 C/C++</vh>
 <v t="leo.20170911091508.2"><vh>程式學習順序</vh></v>
 </v>
@@ -135,7 +153,7 @@
 <v t="leo.20170911100657.2"><vh>電腦輔助設計實習</vh></v>
 </v>
 </v>
-<v t="leo.20170911093601.1"><vh>W1 練習</vh>
+<v t="leo.20170911093601.1" a="E"><vh>W1 練習</vh>
 <v t="leo.20170911093601.2" a="E"><vh>隨身系統練習</vh>
 <v t="leo.20170911093601.3"><vh>Python 3.6 程式環境</vh></v>
 </v>
@@ -166,7 +184,7 @@
 <v t="leo.20170911090052.1"><vh>快捷鍵</vh>
 <v t="leo.20170911090052.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="yen.20170108171733.64" a="E"><vh>各式內容引用範例</vh>
+<v t="yen.20170108171733.64"><vh>各式內容引用範例</vh>
 <v t="yen.20170108171733.65" a="E"><vh>導入數學符號與方程式</vh>
 <v t="yen.20170108171733.66"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -694,7 +712,7 @@ W7-W9
 * 創建Github帳號
 * 學會自行調整start.bat及stop.bat
 * 用Eric6把計算機所需按鍵的配置好
-* </t>
+* 使用DiaPortable與GIMPPortable</t>
 <t tx="leo.20180110004900.1">&lt;section&gt;
     @others
 &lt;/section&gt;
@@ -704,13 +722,6 @@ W7-W9
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20180110005015.1">#W13-W15
-
-* Github期末協同倉儲
-* 
-* 
-* 
-</t>
 <t tx="leo.20180110205902.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -733,6 +744,60 @@ W7-W9
     &lt;/script&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20180110214415.1">* 設定pressButton 與 lineEdit 物件的尺寸大小, 把物件命名, 瞭解設定 clicked 與 connect </t>
+<t tx="leo.20180110224219.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110224356.1">#W13-W15
+
+* Github期末協同倉儲
+* 學習github指令
+* 製作計算機
+</t>
+<t tx="leo.20180110224409.1">*  Github期末協同倉儲
+
+&lt;img src="https://github.com/40623147/w15/blob/gh-pages/%E5%9C%96%E7%89%87/%E5%9C%98%E9%9A%8A.jpg" width="500" height="500"&gt;&lt;/a&gt;</t>
+<t tx="leo.20180110224632.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110225709.1">#常用github指令
+* git add . 要新增所有改版的內容
+* git commit -m "改版訊息" 改版檔名
+* git push 將近端改版資料推送到遠端</t>
+<t tx="leo.20180110230006.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110230016.1">#使用DiaPortable與GIMPPortable
+
+* 使用DiaPortable 做流程圖及箭頭極佳
+* 使用GIMPPortable剪裁圖片</t>
+<t tx="leo.20180110230831.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110230851.1">#與組員協同製作計算機
+* 使用github組員分工製作出計算機基本功能並排除錯誤</t>
+<t tx="leo.20180111004615.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180111004630.1">#心得
+一開始我連怎麼打指令都不知道，甚麼都不懂得我只好一直問同學，來找TA學習怎麼製作計算機，我做的地方是減號,這個需要跟加號的地方作一個判斷，不然只會跑出加號的功能，一直重疊到我也花了很久才找到怎麼用，我找別組的同學問才知道怎麼搞。
+</t>
+<t tx="leo.20180111004920.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180111004935.1">##自評成績
+#73</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
